@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oliver Wasner</h1>
 <h3 align="center">Im Fullstack .Net Student</h3>
 
-- 🔭 I’m currently working on [A Flashcard App](https://github.com/generalxo/flash-card-app)
+<h4> 🔭 I’m currently working on [A Flashcard App](https://github.com/generalxo/flash-card-app) </h4>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=generalxo&show_icons=true&locale=en" alt="generalxo" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=generalxo&show_icons=true&locale=en&layout=compact" alt="generalxo" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=generalxo&show_icons=true&locale=en" alt="generalxo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=generalxo&show_icons=true&locale=en&layout=compact" alt="generalxo" />
 
-- 🌱 I'm currently learning MAUI on my own
+<h4> 🌱 I'm currently learning MAUI on my own </h4>
 
 <h3 align="left">Languages and Tools i've learened so far</h3>
 <ul>
