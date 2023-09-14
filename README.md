@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on [A Flashcard App](https://github.com/generalxo/flash-card-app)
 
-- 📫 How to reach me **oli.wasner@hotmail.com**
-
+- 📫 Reach me at **oli.wasner@hotmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oliver-wasner-90028b265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliver-wasner-90028b265" height="30" width="40" /></a>
@@ -16,8 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=generalxo&show_icons=true&locale=en&layout=compact" alt="generalxo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=generalxo&show_icons=true&locale=en" alt="generalxo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=generalxo&" alt="generalxo" /></p>
 
 <!--
 **generalxo/generalxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
