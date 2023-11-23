@@ -2,7 +2,7 @@
 <h3 align="center">Im Fullstack .Net Student</h3>
 
 
-<h4 align="center">🔭 I’m currently working on a <a href="https://github.com/Sparven704/Project_3-Quiz">Quiz App</a> Blazor </h4>
+<h4 align="center">🔭 I’m currently working on a <a href="https://github.com/Sparven704/Project_3-Quiz">Quiz App</a> with Blazor </h4>
 <hr>
 
 <h3 align="center">Languages and Tools i've learened so far</h3>
