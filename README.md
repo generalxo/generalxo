@@ -2,11 +2,11 @@
 <h3 align="center">Im Fullstack .Net Student</h3>
 
 
-<h4 align="center">🔭 I’m currently working on a <a href="https://github.com/generalxo/flash-card-app">Flashcard App</a> with MAUI</h4>
+<h4 align="center">🔭 I’m currently working on a <a href="https://github.com/Sparven704/Project_3-Quiz">Quiz App</a> Blazor </h4>
 <hr>
 
 <h3 align="center">Languages and Tools i've learened so far</h3>
-<h4 align="center">🌱Currently im learning MAUI</h4>
+<h4 align="center">🌱Currently im learning Blazor</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>  
