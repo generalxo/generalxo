@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Oliver Wasner</h1>
-<h3 align="center">Im Fullstack .Net Developer</h3>
+<h1 align="center">Hi 👋, I'm Oliver</h1>
+<h3 align="center">Im Fullstack Developer</h3>
 
 <hr>
 
-<h3 align="center">Languages and Tools i've learened so far</h3>
+<h3 align="center">Languages and Tools i've worked with so far</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>  
